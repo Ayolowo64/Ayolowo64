@@ -1,7 +1,7 @@
 # Hello
 I am Ayodele Olowo
 
-I am a Data Analyst
+I am a Data Analyst, Geology Graduate and a Problem Solver.
 
 •	🔭 I’m currently working on Several Projects to challenge myself and grow my Data Analytics
 
@@ -15,7 +15,7 @@ I am a Data Analyst
 
 •	💬 Ask me about PowerBI, Excel which are my favourite Data Analytic tool
 
-•	😄 Pronouns: He
+•	😄 Pronouns: He/Him
 
 •	⚡ Fun fact: I love to advocate for clean environment
 
