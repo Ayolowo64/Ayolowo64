@@ -1,7 +1,7 @@
-# Hello
-I am Ayodele Olowo
+**# Hello
+My name is Ayodele Olowo
 
-I am a Data Analyst, Geology Graduate and a Problem Solver.
+**I am a Data Analyst, Geology Graduate and a Problem Solver.**
 
 •	🔭 I’m currently working on Several Projects to challenge myself and grow my Data Analytics
 
