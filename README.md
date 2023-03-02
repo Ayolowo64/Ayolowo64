@@ -1,5 +1,5 @@
 **# Hello**
-My name is Ayodele Olowo
+**My name is Ayodele Olowo**
 
 **I am a Data Analyst, Geology Graduate and a Problem Solver.**
 
